@@ -1,0 +1,27 @@
+{
+  "name": "free-responsive-admin-panel",
+  "version": "1.0.0",
+  "description": "Free Responsive Admin Panel",
+  "main": "index.htm",
+  "scripts": {
+    "build": "mix",
+    "watch": "mix watch",
+    "buildProd": "mix --production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wUFr/free-responsive-admin-panel.git"
+  },
+  "author": "wUFr",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/wUFr/free-responsive-admin-panel/issues"
+  },
+  "homepage": "https://github.com/wUFr/free-responsive-admin-panel#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "laravel-mix": "^6.0.49"
+  }
+}
