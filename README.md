@@ -1,6 +1,6 @@
 # Free Responsive Admin Panel
 
-Backup of really old admin panel i coded in my free time. Open, read or use this code at your own risk ;)
+Backup of a really old admin panel from 2015, which I coded in my free time. Open, read, or use this code at your own risk ;)
 
 
 **Online preview:**  
